@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "592657560555",
+    "firebase_url": "https://lunchdublin.firebaseio.com",
+    "project_id": "lunchdublin",
+    "storage_bucket": "lunchdublin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592657560555:android:9cbc081d0c9071e4",
+        "android_client_info": {
+          "package_name": "com.prettymobileapp.liu.lunchdublin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592657560555-i81iijh79gi81br2pb92fmgl3ui0op8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prettymobileapp.liu.lunchdublin",
+            "certificate_hash": "7d61ffcd8fffa21b5553f582da765ab7a9b84b52"
+          }
+        },
+        {
+          "client_id": "592657560555-5hq14hjhmp5h8dq1g49ops7a59it8tpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIF7e2t9sf3I81KKvMhFsmIdJOUBkylpk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592657560555-5hq14hjhmp5h8dq1g49ops7a59it8tpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
